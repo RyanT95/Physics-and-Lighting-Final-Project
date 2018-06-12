@@ -32,11 +32,10 @@ After the prerequisites are installed on your machine, you will need to import t
 
 The repository contains a file called 'FullNuke.bat', this file deletes all the tempory project files to minimise file size. To regenerate these files, and open the project, you need to do the following:
 * Right click on the 'FinalProjectRyanT.uproject' and select 'Generate Visual Studio Project Files'. This will generate the necessary files needed to run and build the project.
-* Double click on the 'FinalProjectRyanT.sln' to open the source code in Visual Studio. Right click on FinalProjectRyanT in the Solution Explorer and select 'Set as active project'. Now click on 'Build' and 'Clean and Build' to compile the source code.
-* Now you can double click the 'FinalProjectRyanT.uproject' file to open the project in Unreal. Alternatively, you can click the green play button in visual studio to run it with a debugger attatched.
-* For maximum performance, make sure the **TODO** is set to **TODO**, not debug.
+* Double click on the 'FinalProjectRyanT.sln' to open the source code in Visual Studio. Right click on FinalProjectRyanT in the Solution Explorer and select 'Set as StartUp project'. Now click on 'Build' and 'Clean FinalProjectRyanT', then 'Build FinalProjectRyanT' to compile the source code.
+* Now you can double click the 'FinalProjectRyanT.uproject' file to open the project in Unreal. Alternatively, you can click the green play button marked 'Local Windows Debugger' in visual studio to run it with a debugger attatched.
+* For maximum performance, make sure the Solution Configurations dropdown is set to 'Development' or 'Shipping', not 'DebugGame'.
 * When the project has loaded up in Unreal, click the big play button to run the application. You can click the drop down on the play button to access more options such as running in a separate window etc.
-* **TODO**?
 
 ## Built With
 
