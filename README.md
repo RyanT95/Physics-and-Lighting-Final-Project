@@ -12,6 +12,8 @@ The following instructions detail how to get the project up and running on your 
 
 Don't forget to look at the [project report](https://github.com/RyanT95/Physics-and-Lighting-Final-Project/blob/master/Report/Project%20Report.pdf) for a full writeup of the project, including research, requirements analysis, design, implementation, testing and evaluations.
 
+*NOTE* - The project files are too large to host on GitHub (Around 4.0GB). You can download a .rar file including all of the source code [here](https://www.dropbox.com/s/o46qjp9lkxxkbh5/FinalProjectRyanT.rar?dl=0), or you can look at the [project report](https://github.com/RyanT95/Physics-and-Lighting-Final-Project/blob/master/Report/Project%20Report.pdf) and read the '6. Implementation' section starting on page 38.
+
 ### Prerequisites
 
 ```
